@@ -87,24 +87,4 @@
 
 <br/>
 
-<picture>
-
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SimarBhatiaSB7&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY&v=3"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=SimarBhatiaSB7&bg_color=00000000&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY&v=3"
-  />
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SimarBhatiaSB7&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY&v=3"
-    width="97%"
-    alt="GitHub contribution activity"
-  />
-
-</picture>
-
 </div>
