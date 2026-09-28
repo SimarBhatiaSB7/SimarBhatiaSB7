@@ -57,34 +57,6 @@
   />
 </picture>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/dark/s03.svg"
-  />
-  <img
-    src="assets/s03.svg"
-    alt="03 — telemetry"
-  />
-</picture>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="assets/github-contribution-grid-snake.svg"
-  />
-  <img
-    src="assets/github-contribution-grid-snake.svg"
-    alt="GitHub contribution grid snake animation"
-  />
-</picture>
-
 <br/>
 
 </div>
